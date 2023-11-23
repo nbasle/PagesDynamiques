@@ -1,0 +1,2 @@
+-- Alter
+ALTER TABLE T_ITEM ADD COLUMN imagePath VARCHAR(255);
